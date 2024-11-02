@@ -1,0 +1,134 @@
+@charset "UTF-8";
+.container-fluid {
+    background-color: #DE7B89;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.container {
+    background-color: #DD566A;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border-radius: 0px;
+    background-image: -webkit-repeating-linear-gradient(357deg,rgba(238,94,119,1.00) 0%,rgba(237,116,136,1.00) 22.47%,rgba(238,76,106,1.00) 34.54%,rgba(248,54,90,1.00) 52%,rgba(239,73,104,1.00) 63.92%,rgba(237,116,136,1.00) 80.41%,rgba(237,116,136,1.00) 100%);
+    background-image: -moz-repeating-linear-gradient(357deg,rgba(238,94,119,1.00) 0%,rgba(237,116,136,1.00) 22.47%,rgba(238,76,106,1.00) 34.54%,rgba(248,54,90,1.00) 52%,rgba(239,73,104,1.00) 63.92%,rgba(237,116,136,1.00) 80.41%,rgba(237,116,136,1.00) 100%);
+    background-image: -o-repeating-linear-gradient(357deg,rgba(238,94,119,1.00) 0%,rgba(237,116,136,1.00) 22.47%,rgba(238,76,106,1.00) 34.54%,rgba(248,54,90,1.00) 52%,rgba(239,73,104,1.00) 63.92%,rgba(237,116,136,1.00) 80.41%,rgba(237,116,136,1.00) 100%);
+    background-image: repeating-linear-gradient(93deg,rgba(238,94,119,1.00) 0%,rgba(237,116,136,1.00) 22.47%,rgba(238,76,106,1.00) 34.54%,rgba(248,54,90,1.00) 52.00%,rgba(239,73,104,1.00) 63.92%,rgba(237,116,136,1.00) 80.41%,rgba(237,116,136,1.00) 100%);
+}
+h1 {
+    color: #FFFFFF;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-weight: bolder;
+    font-variant: normal;
+    font-style: normal;
+    text-shadow: -3px 5px 5px #883B3C;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,221,85,0.44) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,221,85,0.44) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,221,85,0.44) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,221,85,0.44) 100%);
+    padding-left: 24px;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item.active {
+    background-color: #FFDCBE;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    padding-left: 8px;
+    padding-right: 5px;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link:hover {
+    background-color: #F28D9A;
+    color: #FFFFFF;
+    padding-left: 11px;
+    padding-right: 11px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    max-width: 71px;
+}
+.btn {
+    background-color: #E7902D;
+    background-image: -webkit-linear-gradient(89deg,rgba(160,220,216,1.00) 14.05%,rgba(0,167,156,1.00) 46.94%,rgba(160,220,216,1.00) 100%), url(url);
+    background-image: -moz-linear-gradient(89deg,rgba(160,220,216,1.00) 14.05%,rgba(0,167,156,1.00) 46.94%,rgba(160,220,216,1.00) 100%), url(url);
+    background-image: -o-linear-gradient(89deg,rgba(160,220,216,1.00) 14.05%,rgba(0,167,156,1.00) 46.94%,rgba(160,220,216,1.00) 100%), url(url);
+    background-image: linear-gradient(1deg,rgba(160,220,216,1.00) 14.05%,rgba(0,167,156,1.00) 46.94%,rgba(160,220,216,1.00) 100%), url(url);
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler .navbar-toggler-icon {
+}
+main {
+    text-align: left;
+    /* [disabled]float: left; */
+    clear: left;
+    width: 48%;
+    text-shadow: -2px 2px 2px #650037;
+    color: #FEFFE2;
+    background-image: -webkit-linear-gradient(177deg,rgba(226,0,0,0.02) 0%,rgba(0,0,0,0.21) 17.81%,rgba(255,0,0,0.00) 72.57%);
+    background-image: -moz-linear-gradient(177deg,rgba(226,0,0,0.02) 0%,rgba(0,0,0,0.21) 17.81%,rgba(255,0,0,0.00) 72.57%);
+    background-image: -o-linear-gradient(177deg,rgba(226,0,0,0.02) 0%,rgba(0,0,0,0.21) 17.81%,rgba(255,0,0,0.00) 72.57%);
+    background-image: linear-gradient(273deg,rgba(226,0,0,0.02) 0%,rgba(0,0,0,0.21) 17.81%,rgba(255,0,0,0.00) 72.57%);
+    font-size: 118%;
+}
+#jumbotron {
+    background-color: #BD4368;
+    background-image: url(images/activitiesforkids5.jpg);
+    background-repeat: no-repeat;
+    background-position: 97% 0%;
+    text-shadow: -3px 1px 9px;
+    color: #FFFCC9;
+    height: 39rem;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: left;
+}
+#footer_logo {
+    /* [disabled]margin-top: 3px; */
+    /* [disabled]margin-right: 3px; */
+    /* [disabled]margin-bottom: 3px; */
+    /* [disabled]margin-left: 3px; */
+    padding-top: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+}
+footer {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,251,207,1.00) 0%,rgba(255,178,109,1.00) 99.90%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,251,207,1.00) 0%,rgba(255,178,109,1.00) 99.90%);
+    background-image: -o-linear-gradient(270deg,rgba(255,251,207,1.00) 0%,rgba(255,178,109,1.00) 99.90%);
+    background-image: linear-gradient(180deg,rgba(255,251,207,1.00) 0%,rgba(255,178,109,1.00) 99.90%);
+    height: 54px;
+    color: #000000;
+    padding-top: 1px;
+    line-height: 3rem;
+    clear: both;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+#starrow {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-right: 4px;
+    padding-left: 4px;
+    text-shadow: 8px 2px 4px #FFEFA3;
+}
+#collapse {
+    color: #FFC34E;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: "Avenir Light";
+    font-style: normal;
+    font-variant: small-caps;
+}
+#collapse1 {
+    color: #FFC230;
+    font-family: "Avenir Light";
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.container iframe {
+    height: 255%;
+}
